@@ -1,0 +1,37 @@
+/* GENERAL */
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: medium;
+}
+#wrapper {
+  width: 920px;
+  display: block;
+  margin: auto;
+}
+p {
+  font-size: 1.3em;
+}
+
+/* EN TETE*/
+#image {
+  width: 920px;
+}
+/* BODY */
+#rating {
+  width: 100px;
+}
+#overview td {
+  width: 200px;
+  text-align: center;
+  padding: 10px;
+}
+#ingredients th,
+td {
+  text-align: left;
+  width: 200px;
+  padding: 10px;
+}
+caption {
+  caption-side: bottom;
+  text-align: left;
+}
